@@ -1,0 +1,16 @@
+// Full Screen
+https://grapesjs.com/demo.html
+
+// Drawing
+x jCanvas
+o http://fabricjs.com/docs/fabric.Text.html
+
+// UI
+Metro_4
+
+// Toolbar
+http://blogs.sitepointstatic.com/examples/tech/css3-target/accordionhorz.html#acc1
+
+// Spliter
+https://www.jqueryscript.net/tags.php?/Split%20Layout/
+https://www.syncfusion.com/javascript-ui-controls/js-splitter
